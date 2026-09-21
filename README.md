@@ -1,6 +1,6 @@
 # [Download on Modrinth!](https://modrinth.com/modpack/macosoptimized)
 
-Combination of 44 mods to maximize performance on Apple Silicon Macs
+Combination of 44 mods to maximise performance on Apple Silicon Macs
 
 # Tests in various situations:
 
