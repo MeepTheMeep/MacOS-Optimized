@@ -69,7 +69,7 @@ Combination of 44 mods to maximize performance on Apple Silicon Macs
 ### **MacOS Optimized Mod-Pack:**
 
 ```
-	[Metallum](https://modrinth.com/mod/metallum-mc) Metal: 210fps
+	Metallum Metal: 210fps
     Vulkan: 153fps
 	OpenGL: 90fps
 ```
