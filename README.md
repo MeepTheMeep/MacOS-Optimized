@@ -1,3 +1,7 @@
+# Download on Modrinth!
+
+Combination of 44 mods to maximize performance on Apple Silicon Macs
+
 # Tests in various situations:
 
 Tests conducted on:
